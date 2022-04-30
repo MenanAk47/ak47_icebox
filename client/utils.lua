@@ -69,6 +69,10 @@ AddEventHandler('ak47_icebox:openbossaction', function()
         menu.close()
         inBossMenu = false
     end)
+    TriggerEvent('society:openBossMenu', 'icebox', function(data, menu)
+        menu.close()
+        inBossMenu = false
+    end)
 end)
 
 RegisterNetEvent('ak47_icebox:notify')

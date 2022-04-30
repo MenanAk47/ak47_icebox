@@ -2,6 +2,7 @@ ESX = nil
 TriggerEvent(Config.SharedObjectName, function(obj) ESX = obj end)
 
 TriggerEvent('esx_society:registerSociety', 'icebox', 'icebox', 'society_icebox', 'society_icebox', 'society_icebox', {type = 'private'})
+TriggerEvent('society:registerSociety', 'icebox', 'icebox', 'society_icebox', 'society_icebox', 'society_icebox', {type = 'private'})
 
 function AddInventoryItem(xPlayer, item, amount)
     xPlayer.addInventoryItem(item, amount)
