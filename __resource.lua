@@ -6,7 +6,6 @@ client_scripts {
 	"client/utils.lua",
 	"client/main.lua",
 	"client/job.lua",
-	"client/loader.lua",
 
 	"locales/locale.lua",
 	"locales/en.lua",
@@ -17,15 +16,12 @@ server_scripts {
 	"config.lua",
 	"server/utils.lua",
 	"server/main.lua",
-	"server/loader.lua",
+	"server/job.lua",
 
 	"locales/locale.lua",
 	"locales/en.lua",
 }
 
 files {
-	"nui/ui.html",
-	"nui/panel.js",
-	"nui/style.css",
-	"nui/img/*.png",
+	"nui/**/*",
 }
