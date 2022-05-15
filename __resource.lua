@@ -4,6 +4,7 @@ ui_page "nui/ui.html"
 client_scripts {
 	"config.lua",
 	"client/utils.lua",
+	"client/loader.lua",
 	"client/main.lua",
 	"client/job.lua",
 
@@ -16,7 +17,7 @@ server_scripts {
 	"config.lua",
 	"server/utils.lua",
 	"server/main.lua",
-	"server/job.lua",
+	"server/loader.lua",
 
 	"locales/locale.lua",
 	"locales/en.lua",
