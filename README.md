@@ -1,6 +1,8 @@
 <h1>ICEBOX JOB FOR GTA5 FIVEM ROLEPLAY SERVER | ESX FRAMEWORK</h1>
 <p>Required minumum <span style="color: #339966;">$5</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p><strong>Video Showcase:</strong> <a href="https://youtu.be/L4L8pB6BaUg" target="_blank">YouTube</a></p>
+<p><strong>New UI Designed by <span class="username-3JLfHz username-1g6Iq1">esapath</span><span class="discriminator-1bqsd3">#8805</span></strong></p>
+<p><img src="https://cdn.discordapp.com/attachments/732315339601477652/975896132267950110/unknown.png" alt="" width="1000" height="563" /></p>
 <p><strong>Features: </strong></p>
 <ol>
 <li>Store management</li>
